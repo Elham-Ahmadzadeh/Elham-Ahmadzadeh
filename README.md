@@ -4,7 +4,7 @@ My focus is to become a full stack developer with a specialization in JavaScript
 
 # My skills
 * intermediate level JavaScript/ CSS & HTML
-* Intermediate skills of Vue.js 
+* Intermediate level Vue.js 
 * UX / UI knowledge ,Creating Figma sketches
 * Node.js
 * SCSS & Bootstrap
