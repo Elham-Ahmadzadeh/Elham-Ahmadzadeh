@@ -16,5 +16,7 @@ My focus is to become a full stack developer with a specialization in JavaScript
 * Advanced Node & more backend knowledge
 
 
-### Thanks for your attention 
    my portfolio is coming soon...
+
+### Thanks for your attention 
+  
