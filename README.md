@@ -1,4 +1,4 @@
-### Hi there I'm Elham. 👋
+### Hi there! I'm Elham. 👋
 
 My focus is to become a full stack developer with a specialization in JavaScript. Feel free to take a look at my projects
 
