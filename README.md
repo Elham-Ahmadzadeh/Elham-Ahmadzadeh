@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there I'm Elham. 👋
 
-<!--
-**Elham-Ahmadzadeh/Elham-Ahmadzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus is to become a full stack developer with a specialization in JavaScript. Feel free to take a look at my projects
 
-Here are some ideas to get you started:
+# My skills
+* intermediate level JavaScript/ CSS & HTML
+* Intermediate skills of Vue.js 
+* UX / UI knowledge ,Creating Figma sketches
+* Node.js
+* SCSS & Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My upcomming skills
+* Database 
+* REACT.js
+* Angular.js
+* Node & more backend knowledge
+(my portfolio is coming soon)
+
+  Thanks for your attention 
