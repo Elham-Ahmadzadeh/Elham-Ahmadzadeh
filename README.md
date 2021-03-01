@@ -3,7 +3,7 @@
 I am working hard to become a full stack developer with a specialization in JavaScript. Feel free to take a look at my projects☺️🌿
 
 # Skills
-* Intermediate level JavaScrip, CSS & HTML
+* Intermediate level JavaScript, CSS & HTML
 * Intermediate level Vue.js 
 * UX / UI fundamental knowledge, creating Figma sketches
 * Intermediate level Node.js
