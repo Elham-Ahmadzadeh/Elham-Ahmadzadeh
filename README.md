@@ -8,6 +8,7 @@ I am working hard to become a full stack developer with a specialization in Java
 * UX / UI fundamental knowledge, creating Figma sketches
 * Intermediate level Node.js
 * SCSS & Bootstrap
+* Agile development
 
 # Upcomming skills
 * Database 
