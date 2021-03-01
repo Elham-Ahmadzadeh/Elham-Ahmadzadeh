@@ -16,7 +16,7 @@ I am working hard to become a full stack developer with a specialization in Java
 * Advanced Node & more backend knowledge
 
 
-   my portfolio is coming 🔜 🔥
+   My portfolio is coming 🔜 🔥
 
 ### Thanks for your attention 😇
   
