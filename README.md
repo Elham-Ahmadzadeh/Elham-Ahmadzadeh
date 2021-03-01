@@ -1,6 +1,6 @@
 ### Hi there! I'm Elham. 👋
 
-I am working hard to become a full stack developer with a specialization in JavaScript. Feel free to take a look at my projects☺️ 🌱
+I am working hard to become a full stack developer with a specialization in JavaScript. Feel free to take a look at my projects☺️🌿
 
 # My skills
 * Intermediate level JavaScript/ CSS & HTML
