@@ -11,8 +11,8 @@ I am working hard to become a full stack developer with a specialization in Java
 
 # Upcomming skills
 * Database 
-* REACT.js
-* Angular.js
+* REACT
+* Angular
 * Advanced Node & more backend knowledge
 
 
