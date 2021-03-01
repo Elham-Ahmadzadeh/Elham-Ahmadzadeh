@@ -5,7 +5,7 @@ I am working hard to become a full stack developer with a specialization in Java
 # Skills
 * Intermediate level JavaScript/ CSS & HTML
 * Intermediate level Vue.js 
-* UX / UI knowledge ,Creating Figma sketches
+* UX / UI knowledge, creating Figma sketches
 * Intermediate level Node.js
 * SCSS & Bootstrap
 
